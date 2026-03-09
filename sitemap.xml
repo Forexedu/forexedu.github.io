@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://forexedu.github.io/</loc>
-</url>
-
-<url>
 <loc>https://forexedu.github.io/deriv-account-opening-guide</loc>
-</url>
-
-<url>
-<loc>https://forexedu.github.io/deriv-account-opening-pakistan</loc>
 </url>
 
 <url>
@@ -22,11 +15,55 @@
 </url>
 
 <url>
-<loc>https://forexedu.github.io/deriv-real-account-opening</loc>
+<loc>https://forexedu.github.io/deriv-deposit-guide</loc>
 </url>
 
 <url>
-<loc>https://forexedu.github.io/how-to-create-deriv-account</loc>
+<loc>https://forexedu.github.io/deriv-withdrawal-guide</loc>
+</url>
+
+<url>
+<loc>https://forexedu.github.io/deriv-mt5-guide</loc>
+</url>
+
+<url>
+<loc>https://forexedu.github.io/deriv-trading-strategies</loc>
+</url>
+
+<url>
+<loc>https://forexedu.github.io/deriv-trading-tips</loc>
+</url>
+
+<url>
+<loc>https://forexedu.github.io/deriv-martingale-strategy</loc>
+</url>
+
+<url>
+<loc>https://forexedu.github.io/deriv-trading-signals</loc>
+</url>
+
+<url>
+<loc>https://forexedu.github.io/deriv-synthetic-indices-guide</loc>
+</url>
+
+<url>
+<loc>https://forexedu.github.io/deriv-volatility-indices-guide</loc>
+</url>
+
+<url>
+<loc>https://forexedu.github.io/deriv-volatility-75-strategy</loc>
+</url>
+
+<url>
+<loc>https://forexedu.github.io/deriv-volatility-100-strategy</loc>
+</url>
+
+<url>
+<loc>https://forexedu.github.io/deriv-forex-trading-guide</loc>
+</url>
+
+<url>
+<loc>https://forexedu.github.io/deriv-bot-trading-guide</loc>
 </url>
 
 </urlset>
